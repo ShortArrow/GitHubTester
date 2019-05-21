@@ -1,4 +1,2 @@
 new
-func ShadowRoot() {
-
-}
+func ShadowRoot() {}
